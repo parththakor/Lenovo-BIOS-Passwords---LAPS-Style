@@ -1,0 +1,22 @@
+# Sensitive files that should never be committed
+*.env
+secrets.json
+*.pfx
+*.key
+
+# Local test outputs
+devices-result.csv
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Any file you accidentally save with a real client secret
+*-with-secrets.ps1
