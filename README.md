@@ -237,6 +237,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 MIT. See [LICENSE](LICENSE).
 
-## Acknowledgments
-
-Reference: [Lenovo BIOS WMI Interface Supplement 2020](https://download.lenovo.com/pccbbs/thinkvantage_en/cdrt_resources/2020_supplement.pdf)
